@@ -10,7 +10,7 @@ Bagian 1:
         int jumlahSiswa = input.nextInt();
 
 
-Pada program 1 user dimminta untuk memasukkan jumlah siswa yang nilainya akan di rekap, kemudian di simpan pada variabel jumlahSiswa.
+Pada program 1 user diminta untuk memasukkan jumlah siswa yang nilainya akan di rekap, kemudian di simpan pada variabel jumlahSiswa.
 
 Bagian 2: 
 
@@ -37,7 +37,7 @@ Bagian 4:
         System.out.println("Total nilai: " + totalNilai);
         System.out.println("Rata - rata nilai: "+ rataRata);
 
-Program mengeluarkan ouput berupa jumlah siswa yang di input oleh user, total nilai seluruh siswa, dan rata - rata nilai seluruh siswa.
+Program mengeluarkan output berupa jumlah siswa yang di input oleh user, total nilai seluruh siswa, dan rata - rata nilai seluruh siswa.
 
 
 Screenshot hasil program:
